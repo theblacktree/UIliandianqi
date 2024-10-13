@@ -1,0 +1,23 @@
+QPushButton
+{
+    background-color: lightblue;
+    border: 2px solid darkblue;
+    color: black;
+}
+
+QWidget
+{
+    background-color: rgb(253,245,230);
+}
+QMainWindow
+{
+    background-color: rgb(253,245,230);
+}
+QLabel
+{
+
+}
+QPlainTextEdit#plainTextEdit_tip
+{
+    color: red;
+}
